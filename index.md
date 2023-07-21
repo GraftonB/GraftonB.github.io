@@ -15,7 +15,14 @@ A code review video provides a visual and collaborative platform for developers 
 
 ### Enhancement One: Software Engineering and Design
 
-The first enhancement for the capstone course 
+The first enhancement for the capstone course ePortfolio is a Weight Tracking app developed for Androids through Android Studio. Users are able to create an account, set a goal weight, log weight entries, and choose to be notified upon reaching their goal weight. This artifact demonstrates my proficiency in the category of software engineering and design through a full-stack application, following best coding practices.
+
+<a href="https://www.example.com">
+  <img src="images/Android.png" alt="Grafton Brown Login Screen" width="250" height="450" style="display: block; margin: 0 auto;">
+</a>
+
+<small style="background-color: #F5F5DC; padding: 2px 4px; border-radius: 4px;">See the artifacts narrative and code <a href="https://www.example.com">here.</a></small>
+
 #### Header 4
 
 *   This is an unordered list following a header.
