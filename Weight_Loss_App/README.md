@@ -1,11 +1,30 @@
-The chosen artifact for Milestone 2 is the Weight Loss app designed for CS-360, developed last term over the course of 8 weeks, March-June 2023. Specifically, an Android mobile application, written in Java.
-I have selected this artifact in my ePortfolio because it demonstrates my skills and abilities in software development, specifically in the areas of software engineering and design. The artifact shows my ability to create a functional mobile application with features such as: weight logging, goal setting, account creation, and an account creation system.
-	I selected this artifact because it benefited from software design and engineering enhancements across multiple screens and in varying categories. Enhancements ranged from creating a dynamically updating flexible weight tracking system, removing redundancies across the app, to allowing users to edit, delete, and add entries instead of just add.
-The artifact was improved by addressing specific issues identified in the original version of the Weight Loss app. The weight-logging screen was non-functional and limited to 5 maximum entries, the entries were unable to be edited or deleted once created, many values were hardcoded. 
-To address this, I implemented a linear layout that dynamically generates a new row whenever the user logs a new weight. This was accomplished by defining a row component consisting of the date, obtained from the built-in Java Date() function, the weight entered by the user as a decimal input, and two buttons: "Edit" and "Delete". These buttons enable the user to edit or delete the previously logged entry as needed. Whenever the user presses the “Log Weight” button, a new row with the previously described attributes will be created within the linear layout. In the first iteration of the Weight Loss app there was no functioning “Edit” or “Delete” buttons, with the introduction of both buttons both the apps functionality and user experience will be improved.
-Lastly, redundancies were removed throughout the app with the goal of simplifying the apps appearance and enhancing the user’s experience. The main redundancies removed were related to removing duplicate sections where a user could define a goal weight, the screen navigation was also enhanced. Previously the user was unable to navigate from a specific screen, now all screens accessible to the user can be freely navigated in any order, once logged in.
-In terms of meeting course objectives, in my initial proposal my course objective goal to meet was:
- “Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals.”
-The enhancements align with the course outcome I set out to accomplish. The enhancements are a demonstration of my ability to use well thought out development practices to implement solutions that both deliver value and adhere to coding convention. To summarize, through the implementation of these enhancements I’ve improved the overall useability, functionality, and user experience for the Weight Loss app, and I believe met the desired course outcome for this enhancement.
-Challenges faced during the enhancement process mostly included struggling to integrate new features and development strategies into my existing code. My original code was not written in a modular, maintainable, or even understandable method. It was lacking commenting and was difficult to read at some points, especially when dealing with the more complex components. My largest takeaway was to write clean, modular, well documented code that sets a solid foundation for future maintenance and addition of new features.
-I also learned how much trying and failing lends itself to learning, throughout this enhancement I learned about libraries, methods, patterns, structures, that I didn’t even know existed. Sometimes it seems there are just better ways to implement specific components, which I imagine I’ll continue learning over time.
+## Enhancement One: Software Engineering and Design ##
+
+### Artifact Description ###
+
+The chosen artifact for Milestone 2 is the Weight Loss app designed for CS-360, developed last term over the course of 8 weeks, from March to June 2023. It is an Android mobile application written in Java. The app includes features such as weight logging, goal setting, account creation, and an account management system.
+
+### Justification for Inclusion ###
+
+I have selected this artifact for my ePortfolio because it showcases my skills and abilities in software development, particularly in the areas of software engineering and design. The app's functionality and design demonstrate my capability to create a fully functional mobile application with multiple features, ensuring a seamless user experience.
+
+The enhancements made to this artifact involved improvements in software design and engineering across various aspects of the app. I focused on refining the weight tracking system, eliminating redundancies, and adding new functionalities like the ability to edit, delete, and add entries.
+
+### Reflection on the Enhancement Process ###
+
+Throughout the enhancement process, I encountered several challenges, mainly due to the initial code's lack of modularity, maintainability, and comprehensibility. The code lacked proper commenting, making it difficult to understand, especially when dealing with more complex components. As a result, I learned the importance of writing clean, modular, and well-documented code that establishes a strong foundation for future maintenance and feature additions.
+
+Another benefit was this enhancement process exposed me to various libraries, methods, patterns, and data structures that I was not familiar with previously. Utilizing an approach of iterative development allowed me to explore better ways to implement specific components and expand my knowledge in software development.
+
+### Feedback Incorporation and Artifact Improvement ###
+
+The artifact was significantly improved by addressing specific issues identified in the original version of the Weight Loss app. The weight-logging screen was non-functional and limited to 5 maximum entries, which was resolved by implementing a linear layout that dynamically generates a new row whenever the user logs a new weight. The addition of "Edit" and "Delete" buttons enabled users to modify or remove previously logged entries, enhancing both functionality and user experience.
+
+Redundancies were also eliminated throughout the app, simplifying its appearance and improving user experience. This involved removing duplicate sections related to defining a goal weight, as well as enhancing screen navigation. Previously, users were unable to navigate between specific screens, but with the implemented changes, all screens accessible to the user can now be freely navigated in any order once logged in.
+
+The application was also refactored and optimized to better adhere to coding conventions. Variables were renamed for readability, imports were optimized, Java files were refactored to allow for more modular code, again lending to further maintanability down the road.
+### Alignment with Course Objectives ###
+
+The enhancements made to the Weight Loss app align with my initial course objective goal, which was to "Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals." The improvements exemplify my ability to employ well-thought-out development practices to implement solutions that deliver value and adhere to coding conventions.
+
+In conclusion, the process of enhancing the Weight Loss app allowed me to enhance its usability, functionality, and user experience while also achieving the desired course outcome. The challenges I faced and the feedback I incorporated served as valuable lessons in writing efficient and maintainable code, the enhancements represent my understandings and improvements within the category of Software Design and Engineering.
