@@ -84,13 +84,13 @@ This enhancements has illustrated my understanding of the importance of DSA, as 
 
 In conclusion, the enhancements made to the Slide Show application exemplify my ability to review an application and identify/make improvements related to DSA, which enhance efficiency, performance, maintainability, functionality, and reusability. These skills are essential in the field of computer science as they ensure the delivery of high-quality solutions that meet industry-specific goals while adhering to best practices and standards. Through this project, I have demonstrated my competence in designing and evaluating computing solutions, effectively managing trade-offs in design choices, and using well-founded techniques and tools to deliver valuable applications. The Slide Show application serves as a testament to my growth as a computer scientist, and I am confident that it showcases my progress toward demonstrating desired course outcomes.
 
-<a href="https://github.com/GraftonB/GraftonB.github.io/tree/main/SlideShow">
+<a href="https://github.com/GraftonB/GraftonB.github.io/tree/main/SlideShow_App">
   <img src="images/slideshow.png" alt="Grafton Brown Slideshow Application" width="500" height="500" style="display: block; margin: 0 auto;">
 </a>
 
 <small style="background-color: #F5F5DC; padding: 2px 4px; border-radius: 4px;">Download the artifact<a href="https://github.com/GraftonB/GraftonB.github.io/raw/main/SlideShow.zip"> here.</a></small>
 
-<small style="background-color: #F5F5DC; padding: 2px 4px; border-radius: 4px;">See the artifacts narrative and code on<a href="https://github.com/GraftonB/GraftonB.github.io/tree/main/SlideShow"> github.</a></small>
+<small style="background-color: #F5F5DC; padding: 2px 4px; border-radius: 4px;">See the artifacts narrative and code on<a href="https://github.com/GraftonB/GraftonB.github.io/tree/main/SlideShow_App"> github.</a></small>
 
 #### Header 4
 
