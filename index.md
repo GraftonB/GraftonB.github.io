@@ -51,7 +51,7 @@ In conclusion, the process of enhancing the Weight Loss app allowed me to enhanc
 
 <small style="background-color: #F5F5DC; padding: 2px 4px; border-radius: 4px;">Download the artifact<a href="https://github.com/GraftonB/GraftonB.github.io/raw/2a5291528382fcb9f9a50cd70a67e74f88f110ab/WeightTrackerApp.zip"> here.</a></small>
 
-<small style="background-color: #F5F5DC; padding: 2px 4px; border-radius: 4px;">See the artifacts narrative and code on<a href="https://github.com/GraftonB/GraftonB.github.io/tree/main/Weight_Loss_App"> github.</a></small>
+<small style="background-color: #F5F5DC; padding: 2px 4px; border-radius: 4px;">See the artifacts narrative and code on<a href="https://github.com/GraftonB/GraftonB.github.io/tree/main/Weight_Loss_App"> Github.</a></small>
 
 
 ## Enhancement Two: Data Structures and Algorithms ##
@@ -90,7 +90,7 @@ In conclusion, the enhancements made to the Slide Show application exemplify my 
 
 <small style="background-color: #F5F5DC; padding: 2px 4px; border-radius: 4px;">Download the artifact<a href="https://github.com/GraftonB/GraftonB.github.io/raw/main/SlideShow.zip"> here.</a></small>
 
-<small style="background-color: #F5F5DC; padding: 2px 4px; border-radius: 4px;">See the artifacts narrative and code on<a href="https://github.com/GraftonB/GraftonB.github.io/tree/main/SlideShow_App"> github.</a></small>
+<small style="background-color: #F5F5DC; padding: 2px 4px; border-radius: 4px;">See the artifacts narrative and code on<a href="https://github.com/GraftonB/GraftonB.github.io/tree/main/SlideShow_App"> Github.</a></small>
 
 #### Header 4
 
