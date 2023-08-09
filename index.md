@@ -114,10 +114,10 @@ The planned enhancements align with the course outcomes, particularly the outcom
 By addressing the lack of security features in the initial database implementation, I demonstrated my understanding of secure coding practices and data protection. The improved artifact effectively showcases my ability to implement secure and efficient database solutions and meets desired course outcomes for this enhancement.
 
 
-<a href="https://github.com/GraftonB/GraftonB.github.io/tree/main/SlideShow">
+<a href="https://github.com/GraftonB/GraftonB.github.io/tree/main/Weight_Loss_Database">
   <img src="images/database.png" alt="Grafton Brown Android Database" width="400" height="400" style="display: block; margin: 0 auto;">
 </a>
 
-<small style="background-color: #F5F5DC; padding: 2px 4px; border-radius: 4px;">Download the artifact<a href="https://github.com/GraftonB/GraftonB.github.io/raw/main/SlideShow.zip"> here.</a></small>
+<small style="background-color: #F5F5DC; padding: 2px 4px; border-radius: 4px;">Download the artifact<a href="https://github.com/GraftonB/GraftonB.github.io/raw/2a5291528382fcb9f9a50cd70a67e74f88f110ab/WeightTrackerApp.zip"> here.</a></small>
 
-<small style="background-color: #F5F5DC; padding: 2px 4px; border-radius: 4px;">See the artifacts narrative and code on<a href="https://github.com/GraftonB/GraftonB.github.io/tree/main/SlideShow_App"> github.</a></small>
+<small style="background-color: #F5F5DC; padding: 2px 4px; border-radius: 4px;">See the artifacts narrative and code on<a href="https://github.com/GraftonB/GraftonB.github.io/tree/main/Weight_Loss_Database"> github.</a></small>
