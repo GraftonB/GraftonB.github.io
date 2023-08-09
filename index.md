@@ -51,7 +51,7 @@ In conclusion, the process of enhancing the Weight Loss app allowed me to enhanc
 
 <small style="background-color: #F5F5DC; padding: 2px 4px; border-radius: 4px;">Download the artifact<a href="https://github.com/GraftonB/GraftonB.github.io/raw/2a5291528382fcb9f9a50cd70a67e74f88f110ab/WeightTrackerApp.zip"> here.</a></small>
 
-<small style="background-color: #F5F5DC; padding: 2px 4px; border-radius: 4px;">See the artifacts narrative and code on<a href="https://github.com/GraftonB/GraftonB.github.io/tree/main/Weight_Loss_App"> github.</a></small>
+<small style="background-color: #F5F5DC; padding: 2px 4px; border-radius: 4px;">See the artifacts narrative and code on<a href="https://github.com/GraftonB/GraftonB.github.io/tree/main/Weight_Loss_App"> Github.</a></small>
 
 
 ## Enhancement Two: Data Structures and Algorithms ##
@@ -70,7 +70,7 @@ Throughout the enhancement process, I focused on eliminating redundancies across
 
 ### Feedback Incorporation and Artifact Improvement ###
 
-I addressed the Slide Data Structure by creating a Slide class that encapsulates the image and description for each slide. This improvement provided a more organized and cohesive approach to handle slide information, ensuring that the image and description data are always synchronized. By utilizing either an Array to store instances of the Slide class, I established a unified data structure to manage the slides efficiently. This enhancement not only simplified operations but also contributed to making the code more maintainable and less prone to errors when updating or modifying slide information.
+I addressed the Slide Data Structure by creating a Slide class that encapsulates the image and description for each slide. This improvement provided a more organized and cohesive approach to handle slide information, ensuring that the image and description data are always synchronized. By utilizing an Array to store instances of the Slide class, I established a unified data structure to manage the slides efficiently. This enhancement not only simplified operations but also contributed to making the code more maintainable and less prone to errors when updating or modifying slide information.
 
 I also tackled the issue of hardcoded arrays with a fixed size of 5, which impeded scalability. To resolve this limitation, I replaced the fixed-size arrays with a dynamic data structure, namely an ArrayList. This change enables users to dynamically add or remove slides at runtime, providing more flexibility to the application. By introducing a constant `NUM_SLIDES` and utilizing the dynamic data structure, the application became more adaptable to changing requirements without extensive code modifications. This enhancement demonstrates my ability to design computing solutions that can adjust to varying scenarios, making the application more user-friendly and robust.
 
@@ -90,7 +90,7 @@ In conclusion, the enhancements made to the Slide Show application exemplify my 
 
 <small style="background-color: #F5F5DC; padding: 2px 4px; border-radius: 4px;">Download the artifact<a href="https://github.com/GraftonB/GraftonB.github.io/raw/main/SlideShow.zip"> here.</a></small>
 
-<small style="background-color: #F5F5DC; padding: 2px 4px; border-radius: 4px;">See the artifacts narrative and code on<a href="https://github.com/GraftonB/GraftonB.github.io/tree/main/SlideShow_App"> github.</a></small>
+<small style="background-color: #F5F5DC; padding: 2px 4px; border-radius: 4px;">See the artifacts narrative and code on<a href="https://github.com/GraftonB/GraftonB.github.io/tree/main/SlideShow_App"> Github.</a></small>
 
 ## Enhancement Three: Databases ##
 
