@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Weight Tracker - Grafton Brown</string>
+    <string name="date">Date</string>
+    <string name="enter_weight">Enter weight</string>
+    <string name="log_weight">Log Weight</string>
+    <string name="logged_weight">Logged Weight</string>
+    <string name="dateHolder">Date:</string>
+    <string name="weight">Weight:</string>
+    <string name="notification_channel_name">Weight Tracker Notifications</string>
+    <string name="notification_channel_description">Notifications for Weight Tracker</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="login">Login</string>
+    <string name="create_account">Create Account</string>
+    <string name="weight_tracker_app_permissions">Weight Tracker App Permissions</string>
+    <string name="allow_weight_tracker_to_send_notifications">Allow Weight Tracker to send notifications?</string>
+    <string name="request_permission">Request Permission</string>
+    <string name="log_out">Logout</string>
+</resources>
