@@ -24,3 +24,11 @@ Linear algebra introduced me to the practice of manipulating vectors and matrice
 In closing, my journey through the CS program has equipped me with a variety of skills that extend beyond coding proficiency. From understanding mathematical concepts to applying  algorithms, and from developing efficient code structures to securing software , each subject has contributed to my holistic growth as an emerging computer scientist. My learning journey was filled with frustration, overwhelming feelings that "I can't do it", to always eventually pushing through and succeeding.
 
 In my portfolio, I've curated three distinct artifacts representing Software Engineering and Design, Data Structures and Algorithms, and Databases. These artifacts aren't just assignments; they're milestones reflecting my growth in these categories. Each artifact across every category reflects the improvements I've made as a computer scientist since the start of my journey along the CS program here at SNHU.
+
+## View my code review [here](https://www.youtube.com/watch?v=6w_f-GC5R3I&embeds_referring_euri=https%3A%2F%2Fgraftonb.github.io%2F&feature=emb_imp_woyt)
+
+## [Enhancement One: Software Engineering and Design](https://github.com/GraftonB/GraftonB.github.io/tree/main/Weight_Loss_App)
+## [Enhancement Two: Data Structures and Algorithms](https://github.com/GraftonB/GraftonB.github.io/tree/main/SlideShow_App)
+## [Enhancement Three: Databases](https://github.com/GraftonB/GraftonB.github.io/tree/main/Weight_Loss_Database)
+
+
