@@ -1,116 +1,26 @@
-# The Merlot theme
+## Professional Self Assessment
+Completing the CS program coursework has been an incredible journey that's strengthened my foundation in numerous ways. From the core programming concepts to the ins and outs of data structures, I've had to learn a variety of things that have given me a comprehensive grasp of the field of computer science.
 
-[![.github/workflows/ci.yaml](https://github.com/pages-themes/merlot/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/merlot/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-merlot.svg)](https://badge.fury.io/rb/jekyll-theme-merlot)
+In the beginning, I tackled programming basics, delving into the complex realm of Object-Oriented Programming (OOP) and exploring a wide range of programming languages and frameworks. This adventure felt like deciphering intricate codes that bring applications and systems to life.
 
-*Merlot is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/merlot), or even [use it today](#usage).*
+However, my journey was about more than just coding skills. I've developed important life skills along the way. Breaking down complex projects that felt impossible into manageable tasks became both a satisfying mental challenge and an exercise in patience and frustration tolerance. 
 
-![Thumbnail of Merlot](thumbnail.png)
+As I continued my studies, I began to understand the importance of software security. I learned about the value of using secure coding practices to protect software systems from potential threats. In the field of databases, I've also developed the ability to organize and manage data repositories effectively. Combining this skill with my knowledge of APIs and full-stack development, I've been able to create smooth and interconnected digital systems. I've had to understand at a deep level how different components interact with eachother, providing much of the content that we interface with everyday.
 
-## Usage
+In addition to this, I had to learn about the world of software design patterns, which is like using architectural plans to build strong and reliable software solutions. This skill has enhanced my grasp of software engineering best practices, making sure that my code isn't just effective but also aligns with industry norms.
 
-To use the Merlot theme:
+Furthermore, my exploration led me to concepts such as the Model-View-Controller (MVC) architecture, which was utilized in CS-465 Fullstack Development. This framework, which separates the application into three interconnected components – the model (data and logic), the view (user interface), and the controller (input control) – has provided me with a structured approach to designing applications that are both modular and easily maintainable. Understanding how these components interact and influence each other has been instrumental in developing intuitive and user-friendly software.
 
-1. Add the following to your site's `_config.yml`:
+Another noteworthy concept that I've encountered is the Singleton design pattern. This pattern ensures that a class has only one instance and provides a global point of access to that instance. Incorporating the Singleton pattern in my projects has helped me manage shared resources efficiently and maintain a coherent state throughout the application. This not only contributes to streamlined code but also improves the overall performance and user experience.
 
-    ```yml
-    remote_theme: pages-themes/merlot@v0.2.0
-    plugins:
-    - jekyll-remote-theme # add this line to the plugins list if you already have one
-    ```
+Incorporating MVC and Singleton, along with other design patterns and architectural principles, has allowed me to go beyond writing functional code. It has enabled me to create software solutions that are  scalable, maintanable, and aligned with industry standards, setting the foundations for me to become a more effective and proficient software developer.
 
-2. Optionally, if you'd like to preview your site on your computer, add the following to your site's `Gemfile`:
+Going into this program I was afraid of Math, traditionally I didn't "do well" in Math classes. Math has played a large role in my journey through this program, strengthening my problem-solving skills and understanding of intricate algorithms. From algebra to statistics, discrete math to linear algebra, and even calculus 1 and 2, these mathematical subjects, which I successfully learned, have both increased my confidence in many subjects, but also in my capability to learn.
 
-    ```ruby
-    gem "github-pages", group: :jekyll_plugins
-    ```
+As I explored the realms of computer science, algebra equipped me with a toolkit for expressing abstract ideas and relationships in concrete terms. Statistics lent a critical eye to data interpretation, allowing me to draw meaningful insights from the information at hand. Discrete math provided me with a new way of thinking, the mathematical logic that is present throughout algorithms, helping me better understand their inner workings.
 
-## Customizing
+Linear algebra introduced me to the practice of manipulating vectors and matrices, a skill set I later found to be very important for understanding various data transformation processes within programming. On the other hand, calculus was a huge challenge for me, and I didn't love learning it. However, I do recognize its role in the world of computer science. Applying concepts learned through calculus I was able to understand the intricacies of change and accumulation, helping me understand how variables and functions evolve, which is crucial for the foundation of computational systems.
 
-### Configuration variables
+In closing, my journey through the CS program has equipped me with a variety of skills that extend beyond coding proficiency. From understanding mathematical concepts to applying  algorithms, and from developing efficient code structures to securing software , each subject has contributed to my holistic growth as an emerging computer scientist. My learning journey was filled with frustration, overwhelming feelings that "I can't do it", to always eventually pushing through and succeeding.
 
-Merlot will respect the following variables, if set in your site's `_config.yml`:
-
-```yml
-title: [The title of your site]
-description: [A short description of your site's purpose]
-```
-
-Additionally, you may choose to set the following optional variables:
-
-```yml
-show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
-google_analytics: [Your Google Analytics tracking ID]
-```
-
-### Stylesheet
-
-If you'd like to add your own custom styles:
-
-1. Create a file called `/assets/css/style.scss` in your site
-2. Add the following content to the top of the file, exactly as shown:
-    ```scss
-    ---
-    ---
-
-    @import "{{ site.theme }}";
-    ```
-3. Add any custom CSS (or Sass, including imports) you'd like immediately after the `@import` line
-
-*Note: If you'd like to change the theme's Sass variables, you must set new values before the `@import` line in your stylesheet.*
-
-### Layouts
-
-If you'd like to change the theme's HTML layout:
-
-1. For some changes such as a custom `favicon`, you can add custom files in your local `_includes` folder. The files [provided with the theme](https://github.com/pages-themes/merlot/tree/master/_includes) provide a starting point and are included by the [original layout template](https://github.com/pages-themes/merlot/blob/master/_layouts/default.html).
-2. For more extensive changes, [copy the original template](https://github.com/pages-themes/merlot/blob/master/_layouts/default.html) from the theme's repository<br />(*Pro-tip: click "raw" to make copying easier*)
-3. Create a file called `/_layouts/default.html` in your site
-4. Paste the default layout content copied in the first step
-5. Customize the layout as you'd like
-
-### Customizing Google Analytics code
-
-Google has released several iterations to their Google Analytics code over the years since this theme was first created. If you would like to take advantage of the latest code, paste it into `_includes/head-custom-google-analytics.html` in your Jekyll site.
-
-### Overriding GitHub-generated URLs
-
-Templates often rely on URLs supplied by GitHub such as links to your repository or links to download your project. If you'd like to override one or more default URLs:
-
-1. Look at [the template source](https://github.com/pages-themes/merlot/blob/master/_layouts/default.html) to determine the name of the variable. It will be in the form of `{{ site.github.zip_url }}`.
-2. Specify the URL that you'd like the template to use in your site's `_config.yml`. For example, if the variable was `site.github.url`, you'd add the following:
-    ```yml
-    github:
-      zip_url: http://example.com/download.zip
-      another_url: another value
-    ```
-3. When your site is built, Jekyll will use the URL you specified, rather than the default one provided by GitHub.
-
-*Note: You must remove the `site.` prefix, and each variable name (after the `github.`) should be indent with two space below `github:`.*
-
-For more information, see [the Jekyll variables documentation](https://jekyllrb.com/docs/variables/).
-
-## Roadmap
-
-See the [open issues](https://github.com/pages-themes/merlot/issues) for a list of proposed features (and known issues).
-
-## Project philosophy
-
-The Merlot theme is intended to make it quick and easy for GitHub Pages users to create their first (or 100th) website. The theme should meet the vast majority of users' needs out of the box, erring on the side of simplicity rather than flexibility, and provide users the opportunity to opt-in to additional complexity if they have specific needs or wish to further customize their experience (such as adding custom CSS or modifying the default layout). It should also look great, but that goes without saying.
-
-## Contributing
-
-Interested in contributing to Merlot? We'd love your help. Merlot is an open source project, built one contribution at a time by users like you. See [the CONTRIBUTING file](docs/CONTRIBUTING.md) for instructions on how to contribute.
-
-### Previewing the theme locally
-
-If you'd like to preview the theme locally (for example, in the process of proposing a change):
-
-1. Clone down the theme's repository (`git clone https://github.com/pages-themes/merlot`)
-2. `cd` into the theme's directory
-3. Run `script/bootstrap` to install the necessary dependencies
-4. Run `bundle exec jekyll serve` to start the preview server
-5. Visit [`localhost:4000`](http://localhost:4000) in your browser to preview the theme
-
-### Running tests
-
-The theme contains a minimal test suite, to ensure a site with the theme would build successfully. To run the tests, simply run `script/cibuild`. You'll need to run `script/bootstrap` once before the test script will work.
+In my portfolio, I've curated three distinct artifacts representing Software Engineering and Design, Data Structures and Algorithms, and Databases. These artifacts aren't just assignments; they're milestones reflecting my growth in these categories. Each artifact across every category reflects the improvements I've made as a computer scientist since the start of my journey along the CS program here at SNHU.
