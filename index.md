@@ -41,7 +41,7 @@ A code review video provides a visual and collaborative platform for developers 
     <iframe width="560" height="315" src="https://www.youtube.com/embed/6w_f-GC5R3I" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## Enhancement One: Software Engineering and Design ##
+## [Enhancement One: Software Engineering and Design](https://github.com/GraftonB/Software-Engineering-Design) ##
 
 ### Artifact Description ###
 
