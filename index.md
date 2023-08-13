@@ -72,13 +72,13 @@ The enhancements made to the Weight Loss app align with my initial course object
 
 In conclusion, the process of enhancing the Weight Loss app allowed me to enhance its usability, functionality, and user experience while also achieving the desired course outcome. The challenges I faced and the feedback I incorporated served as valuable lessons in writing efficient and maintainable code, the enhancements represent my understandings and improvements within the category of Software Design and Engineering.
 
-<a href="https://github.com/GraftonB/GraftonB.github.io/tree/main/Weight_Loss_App">
+<a href="https://github.com/GraftonB/Software-Engineering-Design">
   <img src="images/Android.png" alt="Grafton Brown Login Screen" width="250" height="450" style="display: block; margin: 0 auto;">
 </a>
 
 <small style="background-color: #F5F5DC; padding: 2px 4px; border-radius: 4px;">Download the artifact<a href="https://github.com/GraftonB/GraftonB.github.io/raw/2a5291528382fcb9f9a50cd70a67e74f88f110ab/WeightTrackerApp.zip"> here.</a></small>
 
-<small style="background-color: #F5F5DC; padding: 2px 4px; border-radius: 4px;">See the artifacts narrative and code on<a href="https://github.com/GraftonB/GraftonB.github.io/tree/main/Weight_Loss_App"> Github.</a></small>
+<small style="background-color: #F5F5DC; padding: 2px 4px; border-radius: 4px;">See the artifacts narrative and code on<a href="https://github.com/GraftonB/Software-Engineering-Design"> Github.</a></small>
 
 
 ## Enhancement Two: Data Structures and Algorithms ##
@@ -111,13 +111,13 @@ This enhancements has illustrated my understanding of the importance of DSA, as 
 
 In conclusion, the enhancements made to the Slide Show application exemplify my ability to review an application and identify/make improvements related to DSA, which enhance efficiency, performance, maintainability, functionality, and reusability. These skills are essential in the field of computer science as they ensure the delivery of high-quality solutions that meet industry-specific goals while adhering to best practices and standards. Through this project, I have demonstrated my competence in designing and evaluating computing solutions, effectively managing trade-offs in design choices, and using well-founded techniques and tools to deliver valuable applications. The Slide Show application serves as a testament to my growth as a computer scientist, and I am confident that it showcases my progress toward demonstrating desired course outcomes.
 
-<a href="https://github.com/GraftonB/GraftonB.github.io/tree/main/SlideShow_App">
+<a href="https://github.com/GraftonB/Data-Structures-and-Algorithms">
   <img src="images/slideshow.png" alt="Grafton Brown Slideshow Application" width="500" height="500" style="display: block; margin: 0 auto;">
 </a>
 
 <small style="background-color: #F5F5DC; padding: 2px 4px; border-radius: 4px;">Download the artifact<a href="https://github.com/GraftonB/GraftonB.github.io/raw/main/SlideShow.zip"> here.</a></small>
 
-<small style="background-color: #F5F5DC; padding: 2px 4px; border-radius: 4px;">See the artifacts narrative and code on<a href="https://github.com/GraftonB/GraftonB.github.io/tree/main/SlideShow_App"> Github.</a></small>
+<small style="background-color: #F5F5DC; padding: 2px 4px; border-radius: 4px;">See the artifacts narrative and code on<a href="https://github.com/GraftonB/Data-Structures-and-Algorithms"> Github.</a></small>
 
 ## Enhancement Three: Databases ##
 
@@ -141,10 +141,10 @@ The planned enhancements align with the course outcomes, particularly the outcom
 By addressing the lack of security features in the initial database implementation, I demonstrated my understanding of secure coding practices and data protection. The improved artifact effectively showcases my ability to implement secure and efficient database solutions and meets desired course outcomes for this enhancement.
 
 
-<a href="https://github.com/GraftonB/GraftonB.github.io/tree/main/Weight_Loss_Database">
+<a href="https://github.com/GraftonB/Databases">
   <img src="images/database.png" alt="Grafton Brown Android Database" width="400" height="400" style="display: block; margin: 0 auto;">
 </a>
 
 <small style="background-color: #F5F5DC; padding: 2px 4px; border-radius: 4px;">Download the artifact<a href="https://github.com/GraftonB/GraftonB.github.io/raw/2a5291528382fcb9f9a50cd70a67e74f88f110ab/WeightTrackerApp.zip"> here.</a></small>
 
-<small style="background-color: #F5F5DC; padding: 2px 4px; border-radius: 4px;">See the artifacts narrative and code on<a href="https://github.com/GraftonB/GraftonB.github.io/tree/main/Weight_Loss_Database"> github.</a></small>
+<small style="background-color: #F5F5DC; padding: 2px 4px; border-radius: 4px;">See the artifacts narrative and code on<a href="https://github.com/GraftonB/Databases"> github.</a></small>
