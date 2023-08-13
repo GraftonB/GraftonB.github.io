@@ -27,8 +27,8 @@ In my portfolio, I've curated three distinct artifacts representing Software Eng
 
 ## View my code review [here](https://www.youtube.com/watch?v=6w_f-GC5R3I&embeds_referring_euri=https%3A%2F%2Fgraftonb.github.io%2F&feature=emb_imp_woyt)
 
-## [Enhancement One: Software Engineering and Design](https://github.com/GraftonB/GraftonB.github.io/tree/main/Weight_Loss_App)
-## [Enhancement Two: Data Structures and Algorithms](https://github.com/GraftonB/GraftonB.github.io/tree/main/SlideShow_App)
-## [Enhancement Three: Databases](https://github.com/GraftonB/GraftonB.github.io/tree/main/Weight_Loss_Database)
+## [Enhancement One: Software Engineering and Design](https://github.com/GraftonB/Software-Engineering-Design)
+## [Enhancement Two: Data Structures and Algorithms](https://github.com/GraftonB/Databases)
+## [Enhancement Three: Databases](https://github.com/GraftonB/Data-Structures-and-Algorithms)
 
 
