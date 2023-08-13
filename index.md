@@ -7,7 +7,7 @@ layout: default
 <h1 style="text-align: center;">Computer Science Capstone</h1>
 <h2 style="text-align: center;">CS-499|| SNHU</h2>
 
-## Professional Self Assessment
+## [Professional Self Assessment](https://github.com/GraftonB/GraftonB.github.io/tree/main)
 Completing the CS program coursework has been an incredible journey that's strengthened my foundation in numerous ways. From the core programming concepts to the ins and outs of data structures, I've had to learn a variety of things that have given me a comprehensive grasp of the field of computer science.
 
 In the beginning, I tackled programming basics, delving into the complex realm of Object-Oriented Programming (OOP) and exploring a wide range of programming languages and frameworks. This adventure felt like deciphering intricate codes that bring applications and systems to life.
@@ -81,7 +81,7 @@ In conclusion, the process of enhancing the Weight Loss app allowed me to enhanc
 <small style="background-color: #F5F5DC; padding: 2px 4px; border-radius: 4px;">See the artifacts narrative and code on<a href="https://github.com/GraftonB/Software-Engineering-Design"> Github.</a></small>
 
 
-## Enhancement Two: Data Structures and Algorithms ##
+## [Enhancement Two: Data Structures and Algorithms](https://github.com/GraftonB/Data-Structures-and-Algorithms)
 
 ### Artifact Description ###
 
@@ -119,7 +119,7 @@ In conclusion, the enhancements made to the Slide Show application exemplify my 
 
 <small style="background-color: #F5F5DC; padding: 2px 4px; border-radius: 4px;">See the artifacts narrative and code on<a href="https://github.com/GraftonB/Data-Structures-and-Algorithms"> Github.</a></small>
 
-## Enhancement Three: Databases ##
+## [Enhancement Three: Databases](https://github.com/GraftonB/Databases)
 
 ### Artifact Description ###
 The chosen artifact for Milestone 4 is the Weight Loss app designed for CS-360, developed last term over the course of 8 weeks, from March to June 2023. It is an Android mobile application written in Java. The app serves as a weight loss tool, allowing users to log their weight, set goals, create user accounts, and manage weight-related information. It was implemented in Java and integrated with a default SQLite database for data storage.
