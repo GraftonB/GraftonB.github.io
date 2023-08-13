@@ -34,7 +34,7 @@ In closing, my journey through the CS program has equipped me with a variety of 
 
 In my portfolio, I've curated three distinct artifacts representing Software Engineering and Design, Data Structures and Algorithms, and Databases. These artifacts aren't just assignments; they're milestones reflecting my growth in these categories. Each artifact across every category reflects the improvements I've made as a computer scientist since the start of my journey along the CS program here at SNHU.
 
-## Code Review ##
+## [Code Review](https://www.youtube.com/watch?v=6w_f-GC5R3I) ##
 A code review video provides a visual and collaborative platform for developers to assess and improve the quality of software code. It promotes knowledge sharing, identifies areas for enhancement, and fosters a culture of continuous improvement within development teams.
 
 <div style="background-color: #F5F5DC; padding: 2px 4px; border-radius: 4px;">
